@@ -1,11 +1,8 @@
-<h1>數字炸彈</h1>
-<h2>自由模式數字炸彈</h2>
+<h1>FreeGameBomb</h1>
+<h2>數字炸彈 自由模式</h2>
 <table>
   <tr>      
  ```swift
-  
-
-
 import SwiftUI
 
 struct FreeGameBomb: View {
@@ -174,13 +171,8 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
-
-
-    
-
       
  ```
-
   <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/Hw1.png">
      </td>
   </tr>
