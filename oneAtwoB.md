@@ -1,5 +1,5 @@
  <h1>oneAtwoB</h1>
-<h2>自由模式1A2B</h2>
+<h2>1A2B 自由模式</h2>
 <table>
   <tr>
     
