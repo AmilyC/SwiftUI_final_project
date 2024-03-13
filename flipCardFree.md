@@ -290,7 +290,7 @@ struct CardViewFree: View {
       
  ```
 
-  <img src="flipcardFree.png">
+  <img src="flipcardfree.png">
      </td>
   </tr>
 </table>
