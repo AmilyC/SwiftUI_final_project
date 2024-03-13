@@ -7,32 +7,48 @@
 ##### 待更新
 # 自由模式的程式碼連結
 ## About 
-[圈圈叉叉](https://github.com/AmilyC/SwiftUI_final_project/blob/main/hw1.md)
-[翻牌遊戲](https://github.com/AmilyC/SwiftUI_final_project/blob/main/hw1.md)
-[貪食蛇](https://github.com/AmilyC/SwiftUI_final_project/blob/main/hw1.md)
-[數字炸彈](https://github.com/AmilyC/SwiftUI_final_project/blob/main/hw1.md)
-[水果消消樂](https://github.com/AmilyC/SwiftUI_final_project/blob/main/hw1.md)
-[1A2B](https://github.com/AmilyC/SwiftUI_final_project/blob/main/hw1.md)
-[逃出月讀世界](https://github.com/AmilyC/SwiftUI_final_project/blob/main/hw1.md)
-[接胡蘿蔔](https://github.com/AmilyC/SwiftUI_final_project/blob/main/hw1.md)
+[圈圈叉叉](https://github.com/AmilyC/SwiftUI_final_project/blob/main/ooxxView.md)
+###
+[翻牌遊戲](https://github.com/AmilyC/SwiftUI_final_project/blob/main/flipCardFree.md)
+###
+[貪食蛇](https://github.com/AmilyC/SwiftUI_final_project/blob/main/snakeView.md)
+###
+[數字炸彈](https://github.com/AmilyC/SwiftUI_final_project/blob/main/FreeGameBomb.md)
+###
+[水果消消樂](https://github.com/AmilyC/SwiftUI_final_project/blob/main/FreeGameFruit.md)
+###
+[1A2B](https://github.com/AmilyC/SwiftUI_final_project/blob/main/oneAtwoB.md)
+###
+[逃出月讀世界(打地鼠)](https://github.com/AmilyC/SwiftUI_final_project/blob/main/FreeGameBonk.md)
+###
+[接胡蘿蔔](https://github.com/AmilyC/SwiftUI_final_project/blob/main/FreeGameCarrot.md)
 # 故事模式的程式碼連結
 ## About
-[圈圈叉叉](https://github.com/AmilyC/SwiftUI_final_project/blob/main/hw1.md)
-[翻牌遊戲](https://github.com/AmilyC/SwiftUI_final_project/blob/main/hw1.md)
-[貪食蛇](https://github.com/AmilyC/SwiftUI_final_project/blob/main/hw1.md)
-[數字炸彈](https://github.com/AmilyC/SwiftUI_final_project/blob/main/hw1.md)
-[水果消消樂](https://github.com/AmilyC/SwiftUI_final_project/blob/main/hw1.md)
-[1A2B](https://github.com/AmilyC/SwiftUI_final_project/blob/main/hw1.md)
-[逃出月讀世界](https://github.com/AmilyC/SwiftUI_final_project/blob/main/hw1.md)
-[接胡蘿蔔](https://github.com/AmilyC/SwiftUI_final_project/blob/main/hw1.md)
+[圈圈叉叉](https://github.com/AmilyC/SwiftUI_final_project/blob/main/ooxxstory.md)
+###
+[翻牌遊戲](https://github.com/AmilyC/SwiftUI_final_project/blob/main/Flipcard.md)
+###
+[貪食蛇](https://github.com/AmilyC/SwiftUI_final_project/blob/main/snakeStoryView.md)
+###
+[數字炸彈](https://github.com/AmilyC/SwiftUI_final_project/blob/main/Bomb.md)
+###
+[水果消消樂](https://github.com/AmilyC/SwiftUI_final_project/blob/main/Crash.md)
+###
+[1A2B](https://github.com/AmilyC/SwiftUI_final_project/blob/main/ab.md)
+###
+[逃出月讀世界(打地鼠)](https://github.com/AmilyC/SwiftUI_final_project/blob/main/bonk.md)
+###
+[接胡蘿蔔](https://github.com/AmilyC/SwiftUI_final_project/blob/main/catchFruit.md)
 # 各個介面的程式碼連結
 ## About
-[圈圈叉叉](https://github.com/AmilyC/SwiftUI_final_project/blob/main/hw1.md)
-[翻牌遊戲](https://github.com/AmilyC/SwiftUI_final_project/blob/main/hw1.md)
-[貪食蛇](https://github.com/AmilyC/SwiftUI_final_project/blob/main/hw1.md)
-[數字炸彈](https://github.com/AmilyC/SwiftUI_final_project/blob/main/hw1.md)
-[水果消消樂](https://github.com/AmilyC/SwiftUI_final_project/blob/main/hw1.md)
-[1A2B](https://github.com/AmilyC/SwiftUI_final_project/blob/main/hw1.md)
-[逃出月讀世界](https://github.com/AmilyC/SwiftUI_final_project/blob/main/hw1.md)
-[接胡蘿蔔](https://github.com/AmilyC/SwiftUI_final_project/blob/main/hw1.md)
+[Welcome](https://github.com/AmilyC/SwiftUI_final_project/blob/main/WelcomeView.md)
+###
+[自由模式](https://github.com/AmilyC/SwiftUI_final_project/blob/main/freeGameView.md)
+###
+[故事模式](https://github.com/AmilyC/SwiftUI_final_project/blob/main/storyView.md)
+###
+[排行榜](https://github.com/AmilyC/SwiftUI_final_project/blob/main/TrendView.md)
+###
+[設定](https://github.com/AmilyC/SwiftUI_final_project/blob/main/Setting.md)
+
 # 整體操作影片
