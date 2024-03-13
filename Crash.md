@@ -1,5 +1,5 @@
 <h1>Candy Crush</h1>
-<h2>水果消樂</h2>
+<h2>水果消消樂 故事模式</h2>
 <table>
   <tr>
     
