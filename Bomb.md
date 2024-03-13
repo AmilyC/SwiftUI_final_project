@@ -258,7 +258,7 @@ struct bomb: View {
 
       
  ```
-  <img src="https://raw.githubusercontent.com/AmilyC/SwiftUI_final_project/main/IMG_0570.png">
+  <img src="https://raw.githubusercontent.com/AmilyC/SwiftUI_final_project/main/IMG_0564.png">
      </td>
   </tr>
 </table>
