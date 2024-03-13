@@ -1,5 +1,5 @@
-<h1>ab</h1>
-<h2>1A2B</h2>
+<h1>ooxxView</h1>
+<h2>圈圈叉叉 自由模式</h2>
 <table>
   <tr>
     
@@ -453,7 +453,7 @@ struct XOButton: View {
       
  ```
 
-  <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/Hw1.png">
+  <img src="https://raw.githubusercontent.com/AmilyC/SwiftUI_final_project/main/ooxxfree.png">
      </td>
   </tr>
 </table>
