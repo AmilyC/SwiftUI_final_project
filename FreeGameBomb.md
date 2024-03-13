@@ -182,7 +182,7 @@ struct ContentView_Previews: PreviewProvider {
       
  ```
 
-  <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/Hw1.png">
+  <img src="https://raw.githubusercontent.com/AmilyC/SwiftUI_final_project/main/bombfree.png">
      </td>
   </tr>
 </table>
