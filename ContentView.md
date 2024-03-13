@@ -101,8 +101,5 @@ struct ContentView:View{
     }
 }      
  ```
-
-  <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/Hw1.png">
-     </td>
   </tr>
 </table>
