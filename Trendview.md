@@ -86,7 +86,7 @@ struct TrendView: View {
 }
       
  ```
-  <img src="IMG_0550.png">
+  <img src="IMG_trend.png">
      </td>
  
   </tr>
