@@ -629,7 +629,7 @@ fruit(image: "c12")
       
  ```
 
-  <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/Hw1.png">
+  <img src="https://raw.githubusercontent.com/AmilyC/SwiftUI_final_project/main/IMG_0569.png">
      </td>
   </tr>
 </table>
