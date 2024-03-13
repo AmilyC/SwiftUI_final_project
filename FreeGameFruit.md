@@ -577,7 +577,7 @@ var fruitsFree = [
       
  ```
 
-  <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/Hw1.png">
+  <img src="https://raw.githubusercontent.com/AmilyC/SwiftUI_final_project/main/FreeGameFruit.png">
      </td>
   </tr>
 </table>
