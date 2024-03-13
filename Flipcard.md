@@ -1,5 +1,5 @@
-<h1>ab</h1>
-<h2>1A2B</h2>
+<h1>Flipcard</h1>
+<h2>翻牌遊戲 故事模式</h2>
 <table>
   <tr>
     
