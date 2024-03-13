@@ -98,7 +98,7 @@ struct TitleView: View{
 
       
  ```
-  <img src="IMG_0549.png">
+  <img src="IMG_welcome.png">
      </td>
  
   </tr>
