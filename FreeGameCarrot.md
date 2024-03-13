@@ -1,5 +1,5 @@
- <h1>接蘿蔔</h1>
-<h2>自由模式</h2>
+ <h1>FreeGameCarrot</h1>
+<h2>接蘿蔔 自由模式</h2>
 <table>
   <tr>
     
