@@ -52,4 +52,4 @@
 [設定](https://github.com/AmilyC/SwiftUI_final_project/blob/main/Setting.md)
 
 # 整體操作影片
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/GtlcOowVptU/0.jpg)](https://www.youtube.com/watch?v=GtlcOowVptU "Unity Snake Game")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/GtlcOowVptU/0.jpg)](https://youtu.be/uzBHVvmjoug "SwiftUI_final_project")
