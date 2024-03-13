@@ -41,13 +41,13 @@
 [接胡蘿蔔](https://github.com/AmilyC/SwiftUI_final_project/blob/main/catchFruit.md)
 # 各個介面的程式碼連結
 ## About
-[Welcome](https://github.com/AmilyC/SwiftUI_final_project/blob/main/WelcomeView.md)
+[Welcome](https://github.com/AmilyC/SwiftUI_final_project/blob/main/welcome.md)
 ###
 [自由模式](https://github.com/AmilyC/SwiftUI_final_project/blob/main/freeGameView.md)
 ###
 [故事模式](https://github.com/AmilyC/SwiftUI_final_project/blob/main/storyView.md)
 ###
-[排行榜](https://github.com/AmilyC/SwiftUI_final_project/blob/main/TrendView.md)
+[排行榜](https://github.com/AmilyC/SwiftUI_final_project/blob/main/Trendview.md)
 ###
 [設定](https://github.com/AmilyC/SwiftUI_final_project/blob/main/Setting.md)
 
