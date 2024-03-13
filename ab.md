@@ -2,9 +2,7 @@
 <h1>HW1</h1>
 <table>
   <tr>
-    <td>
-    <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/Hw1.png">  
-    </td>
+    
     <td>
       
  ```swift
