@@ -122,7 +122,7 @@ extension Array: RawRepresentable where Element: Codable{
 
       
  ```
-  <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/Hw1.png">
+  <img src="IMG_setting.png">
      </td>
  
   </tr>
