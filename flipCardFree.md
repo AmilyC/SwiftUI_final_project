@@ -290,7 +290,7 @@ struct CardViewFree: View {
       
  ```
 
-  <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/Hw1.png">
+  <img src="flipCardFree.png">
      </td>
   </tr>
 </table>
