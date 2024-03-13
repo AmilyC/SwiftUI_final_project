@@ -2,9 +2,7 @@
 <h2>控制遊戲主畫面</h2>
 <table>
   <tr>
-    
-    
-      
+        
  ```swift
 import SwiftUI
 import AVFoundation
@@ -101,12 +99,7 @@ struct ContentView:View{
             player.volume = Float(vol)
         })
     }
-}
-
-
-    
-
-      
+}      
  ```
 
   <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/Hw1.png">
