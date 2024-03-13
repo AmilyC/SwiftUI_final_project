@@ -2,8 +2,7 @@
 <h2>初始畫面</h2>
 <table>
   <tr>
-     <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/Hw1.png">
-     </td>
+   
     
       
  ```swift
@@ -99,7 +98,8 @@ struct TitleView: View{
 
       
  ```
-
+  <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/Hw1.png">
+     </td>
  
   </tr>
 </table>
