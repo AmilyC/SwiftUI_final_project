@@ -1,5 +1,5 @@
  <h1>FreeGameFruit</h1>
-<h2>水果消消自由模式</h2>
+<h2>水果消消樂 自由模式</h2>
 <table>
   <tr>
     
