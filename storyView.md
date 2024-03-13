@@ -1,4 +1,4 @@
-<h1>Welcome</h1>
+<h1>storyView</h1>
 <h2>初始畫面</h2>
 <table>
   <tr>
