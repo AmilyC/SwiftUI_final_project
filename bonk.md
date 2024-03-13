@@ -329,7 +329,7 @@ func generateRandomEmojiArray() -> [String] {
       
  ```
 
-  <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/Hw1.png">
+  <img src="IMG_0570.png">
      </td>
   </tr>
 </table>
