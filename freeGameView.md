@@ -122,7 +122,7 @@ struct freeGameView: View {
       
  ```
 
-  <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/Hw1.png">
+  <img src="https://raw.githubusercontent.com/AmilyC/SwiftUI_final_project/main/IMG_0555.png">
      </td>
   </tr>
 </table>
