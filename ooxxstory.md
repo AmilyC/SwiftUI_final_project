@@ -1,5 +1,5 @@
  <h1>ooxxstory</h1>
-<h2>ooxx</h2>
+<h2>ooxx 故事模式</h2>
 <table>
   <tr>
     
