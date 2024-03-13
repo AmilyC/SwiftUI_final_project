@@ -316,7 +316,7 @@ struct snakeStoryView: View {
 }
 
  ```
-  <img src="IMG_snake_story.png">
+  <img src="snake story.PNG">
      </td>
  
   </tr>
