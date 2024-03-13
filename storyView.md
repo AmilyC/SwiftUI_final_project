@@ -1,5 +1,5 @@
 <h1>storyView</h1>
-<h2>初始畫面</h2>
+<h2>故事模式</h2>
 <table>
   <tr>
    
