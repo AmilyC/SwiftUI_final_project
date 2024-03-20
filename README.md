@@ -9,6 +9,7 @@
 ##### sunnyplaycode=> 接蘿蔔
 ##### didi816=> 圈圈叉叉 網頁跳轉功能
 ##### 匿名某同學=> 逃出月讀世界(打地鼠)
+#### 詳細說明可以看[我們的簡報](https://github.com/AmilyC/SwiftUI_final_project/blob/main/swiftUIfinal.pdf)
 # 自由模式的程式碼連結
 ## About 
 [圈圈叉叉](https://github.com/AmilyC/SwiftUI_final_project/blob/main/ooxxView.md)
